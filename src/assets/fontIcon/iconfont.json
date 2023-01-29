@@ -1,0 +1,65 @@
+{
+  "id": "3571539",
+  "name": "vue后台管理系统",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "30252785",
+      "name": "location",
+      "font_class": "location",
+      "unicode": "e6c0",
+      "unicode_decimal": 59072
+    },
+    {
+      "icon_id": "30252786",
+      "name": "download",
+      "font_class": "download",
+      "unicode": "e6c1",
+      "unicode_decimal": 59073
+    },
+    {
+      "icon_id": "30252789",
+      "name": "alert",
+      "font_class": "alert",
+      "unicode": "e6c2",
+      "unicode_decimal": 59074
+    },
+    {
+      "icon_id": "30252796",
+      "name": "user",
+      "font_class": "user",
+      "unicode": "e6c3",
+      "unicode_decimal": 59075
+    },
+    {
+      "icon_id": "30252781",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e6bc",
+      "unicode_decimal": 59068
+    },
+    {
+      "icon_id": "30252782",
+      "name": "file",
+      "font_class": "file",
+      "unicode": "e6bd",
+      "unicode_decimal": 59069
+    },
+    {
+      "icon_id": "30252783",
+      "name": "cloud",
+      "font_class": "cloud",
+      "unicode": "e6be",
+      "unicode_decimal": 59070
+    },
+    {
+      "icon_id": "30252784",
+      "name": "chart",
+      "font_class": "chart",
+      "unicode": "e6bf",
+      "unicode_decimal": 59071
+    }
+  ]
+}
